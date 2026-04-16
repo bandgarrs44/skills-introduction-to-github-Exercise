@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations bandgarrs44! 🎉
+# 🎉 Congratulations bandgarrs! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
